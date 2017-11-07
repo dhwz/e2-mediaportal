@@ -1,0 +1,6 @@
+912
+http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_9.1.2_all.ipk
+912
+http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_9.1.2_all.deb
+http://dhwz.github.io/e2-mediaportal/status.txt
+master;master
