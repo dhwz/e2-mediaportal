@@ -5,6 +5,6 @@ http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extension
 http://dhwz.github.io/e2-mediaportal/status.txt
 master;master
 http://master.dl.sourceforge.net/project/e2-mediaportal/update/enigma2-plugin-extensions-mediaportal_all.deb
-http://master.dl.sourceforge.net/project/e2-mediaportal/update/nodejs_%s.deb
-http://master.dl.sourceforge.net/project/e2-mediaportal/update/python-pyexecjs_%s.deb
-http://master.dl.sourceforge.net/project/e2-mediaportal/update/python-merlin4-covercollection_%s.deb
+http://master.dl.sourceforge.net/project/e2-mediaportal/update/nodejs_&&ARCH&&.deb
+http://master.dl.sourceforge.net/project/e2-mediaportal/update/python-pyexecjs_&&ARCH&&.deb
+http://master.dl.sourceforge.net/project/e2-mediaportal/update/python-merlin4-covercollection_&&ARCH&&.deb
