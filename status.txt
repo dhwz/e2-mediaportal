@@ -29,4 +29,4 @@
 "grauzone.movie25" "900" "Support for this plugin has been suspended."
 "grauzone.mykino" "900" "Support for this plugin has been suspended."
 "grauzone.szenestreams" "900" "Support for this plugin has been suspended."
-#THIS FILE IS NOT A CHANGELOG, WE WILL NOT PROVIDE ANY UPDATE INFOS WITH THIS FILE
+#THIS FILE IS NOT A CHANGELOG, WE WILL NOT PROVIDE ANY UPDATE INFOS WITH THIS FILE 
