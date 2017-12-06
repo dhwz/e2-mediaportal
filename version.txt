@@ -1,6 +1,6 @@
-2017120301
+2017120601
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
-2017120301
+2017120601
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.deb
 http://dhwz.github.io/e2-mediaportal/status.txt
 master;master
