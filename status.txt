@@ -1,4 +1,4 @@
-"grauzone.burningseries" "1000" "This MP version has reached EOL, please update to lastest version."
+﻿"grauzone.burningseries" "1000" "This MP version has reached EOL, please update to lastest version."
 "grauzone.serienstream" "1000" "This MP version has reached EOL, please update to lastest version."
 "grauzone.kinoxto" "1000" "This MP version has reached EOL, please update to lastest version."
 "grauzone.movie4k" "1000" "This MP version has reached EOL, please update to lastest version."
@@ -28,3 +28,4 @@
 "grauzone.movie25" "1000" "This MP version has reached EOL, please update to lastest version."
 "grauzone.mykino" "1000" "This MP version has reached EOL, please update to lastest version."
 "grauzone.szenestreams" "1000" "This MP version has reached EOL, please update to lastest version."
+"mediatheken.dmax" "1000" "Das Plugin ist bis auf weiteres nicht mehr verfügbar, da Discovery die alte App abgeschaltet hat."
