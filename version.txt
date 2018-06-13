@@ -1,7 +1,7 @@
 2018061301
-http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
+http://netcologne.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
 2018061301
-http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.deb
+http://netcologne.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.deb
 http://dhwz.github.io/e2-mediaportal/status.txt
 master;master
 http://master.dl.sourceforge.net/project/e2-mediaportal/update/enigma2-plugin-extensions-mediaportal_all.deb
