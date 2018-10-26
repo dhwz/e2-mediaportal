@@ -3,8 +3,8 @@ http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extension
 2018102601
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.deb
 http://dhwz.github.io/e2-mediaportal/status.txt
-netix;cytranet;iweb
-http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/enigma2-plugin-extensions-mediaportal_all.deb
+netix;cytranet
+http://netix.dl.sourceforge.net/project/e2-mediaportal/update/enigma2-plugin-extensions-mediaportal_all.deb
 http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/nodejs_&&ARCH&&.deb
 http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/python-pyexecjs_&&ARCH&&.deb
 http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/python-merlin4-covercollection_&&ARCH&&.deb
