@@ -1,11 +1,11 @@
-2018120701
+2018121901
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
-2018120701
+2018121901
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.deb
 http://dhwz.github.io/e2-mediaportal/status.txt
 netix;cytranet
 http://netix.dl.sourceforge.net/project/e2-mediaportal/update/enigma2-plugin-extensions-mediaportal_all.deb
-http://master.dl.sourceforge.net/project/e2-mediaportal/update/nodejs_&&ARCH&&.deb
-http://master.dl.sourceforge.net/project/e2-mediaportal/update/python-pyexecjs_&&ARCH&&.deb
-http://master.dl.sourceforge.net/project/e2-mediaportal/update/python-merlin4-covercollection_&&ARCH&&.deb
-http://master.dl.sourceforge.net/project/e2-mediaportal/update/python-merlinmusicplayer_&&ARCH&&.deb
+http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/nodejs_&&ARCH&&.deb
+http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/python-pyexecjs_&&ARCH&&.deb
+http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/python-merlin4-covercollection_&&ARCH&&.deb
+http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/python-merlinmusicplayer_&&ARCH&&.deb
