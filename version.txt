@@ -9,3 +9,4 @@ http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/nodejs_&&ARCH&&.deb
 http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/python-pyexecjs_&&ARCH&&.deb
 http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/python-merlin4-covercollection_&&ARCH&&.deb
 http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/python-merlinmusicplayer_&&ARCH&&.deb
+#FEED#https://feed.mediaportal.info/apt/
