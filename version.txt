@@ -1,12 +1,7 @@
-2019040601
+2019042101
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
-2019040601
-http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.deb
+2019042101
+DreamOS
 http://dhwz.github.io/e2-mediaportal/status.txt
 master;master
-http://cytranet.dl.sourceforge.net/project/e2-mediaportal/update/enigma2-plugin-extensions-mediaportal_all.deb
-http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/nodejs_&&ARCH&&.deb
-http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/python-pyexecjs_&&ARCH&&.deb
-http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/python-merlin4-covercollection_&&ARCH&&.deb
-http://iweb.dl.sourceforge.net/project/e2-mediaportal/update/python-merlinmusicplayer_&&ARCH&&.deb
 #FEED#https://feed.mediaportal.info/apt/
