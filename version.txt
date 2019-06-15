@@ -1,6 +1,6 @@
-2019051201
+2019061501
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
-2019051201
+2019061501
 DreamOS
 http://dhwz.github.io/e2-mediaportal/status.txt
 master;master
