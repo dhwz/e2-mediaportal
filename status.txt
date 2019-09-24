@@ -19,7 +19,6 @@
 "grauzone.vkstreamingfilm" "1000" "This MP version has reached EOL, please update to lastest version."
 "grauzone.filmestreamz" "1000" "This MP version has reached EOL, please update to lastest version."
 "grauzone.crynet" "1000" "This MP version has reached EOL, please update to lastest version."
-"useradditions.crynet" "1000" "This MP version has reached EOL, please update to lastest version."
 "grauzone.seriesever" "1000" "This MP version has reached EOL, please update to lastest version."
 "grauzone.moviesever" "1000" "This MP version has reached EOL, please update to lastest version."
 "grauzone.tata" "1000" "This MP version has reached EOL, please update to lastest version."
