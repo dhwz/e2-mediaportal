@@ -1,8 +1,8 @@
 2020060105
-https://apt.fury.io/e2-mediaportal/files/ver_Z3XvG/enigma2-plugin-extensions-mediaportal_all.ipk
+http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
 2020120601
 DreamOS
 http://dhwz.github.io/e2-mediaportal/status.txt
-
+netcologne;versaweb;netix;iweb
 #FEED#https://feed.mediaportal.info/apt/
 http://dhwz.github.io/e2-mediaportal/status_dreamos.txt
