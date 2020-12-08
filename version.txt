@@ -1,5 +1,5 @@
 2020060105
-http://downloads.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
+https://apt.fury.io/e2-mediaportal/files/ver_Z3XvG/enigma2-plugin-extensions-mediaportal_all.ipk
 2020120601
 DreamOS
 http://dhwz.github.io/e2-mediaportal/status.txt
