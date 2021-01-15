@@ -1,4 +1,4 @@
-2020060201
+2020060202
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
 2021011501
 DreamOS
