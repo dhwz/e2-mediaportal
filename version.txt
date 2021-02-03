@@ -1,6 +1,6 @@
-2020060204
+2020060205
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
-2021011601
+2021020301
 DreamOS
 http://dhwz.github.io/e2-mediaportal/status.txt
 netcologne;versaweb;netix;iweb
