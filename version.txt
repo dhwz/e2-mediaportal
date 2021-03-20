@@ -3,6 +3,6 @@ http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extension
 2021032001
 DreamOS
 http://dhwz.github.io/e2-mediaportal/status.txt
-netcologne;netix
+netcologne;deac-ams;deac-fra;deac-riga;kumisystems;altushost-swe;netix
 #FEED#https://feed.mediaportal.info/apt/
 http://dhwz.github.io/e2-mediaportal/status_dreamos.txt
