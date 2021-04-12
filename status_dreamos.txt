@@ -1,3 +1,4 @@
 ﻿"mediatheken.zdf" "2020052001" "This version of the plugin is no longer supported, please upgrade to the lastest version first."
 "mediatheken.srg" "2021011601" "This version of the plugin is no longer working."
 "mediatheken.tvnow" "2025010101" "This plugin is no longer working."
+"porn.chaturbate" "2021032002" "The plugin is currently broken and will be reactivated in the next update."
