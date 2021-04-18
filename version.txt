@@ -1,6 +1,6 @@
-2020060301
+2020060401
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
-2021032001
+2021041801
 DreamOS
 http://dhwz.github.io/e2-mediaportal/status.txt
 netcologne;deac-ams;deac-fra;deac-riga;kumisystems;altushost-swe;netix
