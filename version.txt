@@ -4,5 +4,5 @@ http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extension
 DreamOS
 http://dhwz.github.io/e2-mediaportal/status.txt
 deac-ams;deac-riga;altushost-swe
-#FEED#https://feed.mediaportal.info/apt/
+#FEED#https://apt.fury.io/mediaportal/
 http://dhwz.github.io/e2-mediaportal/status_dreamos.txt
