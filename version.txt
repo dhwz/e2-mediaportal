@@ -1,6 +1,6 @@
 2020070101
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_all.ipk
-2021050101
+2021070801
 DreamOS
 http://dhwz.github.io/e2-mediaportal/status.txt
 altushost-swe;netcologne
