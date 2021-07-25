@@ -3,3 +3,4 @@
 "mediatheken.tvnow" "2025010101" "This plugin is no longer working."
 "porn.chaturbate" "2021032002" "The plugin is currently broken and will be reactivated in the next update."
 "mediatheken.ard" "2021123101" "The plugin is currently broken and will be reactivated in a future update."
+"useradditions.serienstream" "2021072501" "failed"
