@@ -13,4 +13,3 @@
 "mediatheken.zdf" "2020060105" "This version of the plugin is no longer supported, please upgrade to the lastest version first."
 "mediatheken.srg" "2020060204" "This version of the plugin is no longer working."
 "porn.chaturbate" "2020060302" "The plugin is currently broken and will be reactivated in the next update."
-"useradditions.serienstream" "2021072501" "failed"
