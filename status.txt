@@ -1,5 +1,6 @@
 ﻿"mediatheken.dreisat" "2020060105" "This version of the plugin is no longer supported, please upgrade to the lastest version first."
-"mediatheken.ard" "2021123101" "The plugin is currently broken and will be reactivated in a future update."
+"mediatheken.ard" "2022123101" "The plugin is currently broken and will be reactivated in a future update."
+"mediatheken.ard_v2" "2025123101" "Thanks go again to OpenATV board for not respecting license."
 "mediatheken.arte" "2020060105" "This version of the plugin is no longer supported, please upgrade to the lastest version first."
 "mediatheken.atv" "2020060105" "This version of the plugin is no longer supported, please upgrade to the lastest version first."
 "mediatheken.funk" "2020060105" "This version of the plugin is no longer supported, please upgrade to the lastest version first."
