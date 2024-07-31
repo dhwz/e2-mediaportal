@@ -1,1 +1,1 @@
-﻿"useradditions.kinox" "2026010101" "It's time to say goodbye."
+﻿"useradditions.kinoxto" "2026010101" "It's time to say goodbye."
